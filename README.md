@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**kavitha-dataeng/kavitha-dataeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello, I am Kavitha Velmurugan (she/her), based in Houston, TX .
 
-Here are some ideas to get you started:
+Seasoned data engineering expert with over 15 years of experience transforming complex data landscapes. My journey in the world of data began with Informatica and MDM, 
+and has evolved to embrace cutting-edge technologies like Databricks on Azure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Expertise
+    - Data Engineering: Proficient in designing and implementing robust data pipelines and architectures using Databricks
+    - Cloud Technologies: Azure, AWS and GCP
+    - Big Data: Spark, Hadoop and Kafka
+    - Master Data Management (MDM): Strong background in implementing MDM solutions
+    - Programming: Advanced skills in Python for data manipulation and analysis
+    - Industries: Deep domain knowledge in Banking, Finance, and Oil & Gas sectors
