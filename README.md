@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Hello, I am Kavitha Velmurugan (she/her), based in Houston, TX .
+## I am Kavitha Velmurugan (she/her), based in Houston, TX .
 
 Seasoned data engineering expert with over 15 years of experience transforming complex data landscapes. My journey in the world of data began with Informatica and MDM, 
 and has evolved to embrace cutting-edge technologies like Databricks on Azure.
